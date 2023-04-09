@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# Video Link - https://youtu.be/XunpaM0OAZg <br>
+# Github Link - https://github.com/whosthemaan/A_Star_Turtlebot3
 
 import numpy as np
 import math
