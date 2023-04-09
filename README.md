@@ -51,5 +51,5 @@ Both the parts are included in a single video
 <br>
 
 ### Authors
-Omkar Chittar - ochittar - 119193556
+Omkar Chittar - ochittar - 119193556 <br>
 Rohan Maan - rmaan - 119061770
