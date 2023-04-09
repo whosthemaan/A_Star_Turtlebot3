@@ -2,7 +2,7 @@
 Video Link - https://youtu.be/XunpaM0OAZg <br>
 Github Link - https://github.com/whosthemaan/A_Star_Turtlebot3
 
-Both Part 1 and Part 2 are included here together and hence don't need to be run seperately
+Note:- Both Part 1 and Part 2 are included here together and hence don't need to be run seperately
 
 ### Introduction to the Project
 
